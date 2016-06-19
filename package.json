@@ -1,0 +1,24 @@
+{
+  "name": "wit-demo-v",
+  "version": "1.0.0",
+  "description": "Simple demo for using Wit.ai functions",
+  "main": "sample.js",
+  "dependencies": {
+    "node-uuid": "^1.4.7",
+    "node-wit": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mboggie/wit-demo-v.git"
+  },
+  "author": "Matt Boggie",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mboggie/wit-demo-v/issues"
+  },
+  "homepage": "https://github.com/mboggie/wit-demo-v#readme"
+}
